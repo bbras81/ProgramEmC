@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 
+
 void main() {
     setlocale(LC_ALL, "Portuguese");
     printf("Oi \n");
@@ -22,4 +23,6 @@ void main() {
     printf("Oi, \ttudo \tbem? \a \n");
 
     printf("C  \n\"super\"\nFacil!");
+
+    //Olá tudo bem?
 }
