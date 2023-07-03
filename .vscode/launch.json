@@ -1,12 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/brunobras/Documents/Programação/ProgramEmC",
+      "cwd": "/Users/brunobras/Documents/Pr ",
       "program": "/Users/brunobras/Documents/Programação/ProgramEmC/build/Debug/outDebug"
     }
   ]
