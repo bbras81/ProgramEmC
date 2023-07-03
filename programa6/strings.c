@@ -3,7 +3,7 @@
 void main(){
     char nome[30];
     char ender[40];
-    printf("digite o seu nome: \n");
+    printf("digite o seu nome: ");
     fflush(stdin);
     gets(nome);
     printf("Insira a morada:");
